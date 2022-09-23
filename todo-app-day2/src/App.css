@@ -28,6 +28,7 @@ input {
   padding: 10px;
   border-radius: 20px;
   border: none;
+  cursor: grab;
 }
 
 button {
@@ -35,6 +36,7 @@ button {
   padding: 10px;
   border-radius: 20px;
   margin: 0 5px;
+  cursor: grabbing;
 }
 
 .allTodos {
